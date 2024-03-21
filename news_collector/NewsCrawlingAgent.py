@@ -177,3 +177,4 @@ for portal in news_portal_list:
 # 스레드 모니터링 스레드 시작
 monitor_thread = threading.Thread(target=monitor_threads)
 monitor_thread.start()
+    
