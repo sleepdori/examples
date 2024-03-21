@@ -1,0 +1,4 @@
+export ENV_FILE_NM=/work/python/news_collector/common/environment.ini
+export NEWS_HOME=/work/python/news_collector
+cd $NEWS_HOME
+python NewsCrawlingAgent.py 
